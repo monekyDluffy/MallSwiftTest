@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+MallSwiftTest in MallSwiftTest, no dependencies
+MallSwiftTest in MallSwiftTest, no dependencies

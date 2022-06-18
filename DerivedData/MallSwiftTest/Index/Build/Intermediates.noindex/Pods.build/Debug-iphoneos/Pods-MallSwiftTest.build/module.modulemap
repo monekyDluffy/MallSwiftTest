@@ -1,0 +1,6 @@
+framework module Pods_MallSwiftTest {
+  umbrella header "Pods-MallSwiftTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

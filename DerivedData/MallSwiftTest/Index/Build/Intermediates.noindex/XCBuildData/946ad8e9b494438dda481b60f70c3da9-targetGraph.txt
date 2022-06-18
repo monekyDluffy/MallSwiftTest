@@ -1,0 +1,37 @@
+Target dependency graph (14 targets)
+Alamofire in Pods, no dependencies
+Kingfisher in Pods, no dependencies
+MonkeyKing in Pods, no dependencies
+SnapKit in Pods, no dependencies
+SwiftyJSON in Pods, no dependencies
+Pods-MallSwiftTest in Pods, depends on:
+Alamofire in Pods (explicit)
+Kingfisher in Pods (explicit)
+MonkeyKing in Pods (explicit)
+SnapKit in Pods (explicit)
+SwiftyJSON in Pods (explicit)
+MallSwiftTest in MallSwiftTest, depends on:
+Pods-MallSwiftTest in Pods (implicit dependency via file 'Pods_MallSwiftTest.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+Kingfisher in Pods (implicit dependency via options '-framework Kingfisher' in build setting 'OTHER_LDFLAGS')
+MonkeyKing in Pods (implicit dependency via options '-framework MonkeyKing' in build setting 'OTHER_LDFLAGS')
+SnapKit in Pods (implicit dependency via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS')
+SwiftyJSON in Pods (implicit dependency via options '-framework SwiftyJSON' in build setting 'OTHER_LDFLAGS')
+Alamofire in Pods, no dependencies
+Kingfisher in Pods, no dependencies
+MonkeyKing in Pods, no dependencies
+SnapKit in Pods, no dependencies
+SwiftyJSON in Pods, no dependencies
+Pods-MallSwiftTest in Pods, depends on:
+Alamofire in Pods (explicit)
+Kingfisher in Pods (explicit)
+MonkeyKing in Pods (explicit)
+SnapKit in Pods (explicit)
+SwiftyJSON in Pods (explicit)
+MallSwiftTest in MallSwiftTest, depends on:
+Pods-MallSwiftTest in Pods (implicit dependency via file 'Pods_MallSwiftTest.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+Kingfisher in Pods (implicit dependency via options '-framework Kingfisher' in build setting 'OTHER_LDFLAGS')
+MonkeyKing in Pods (implicit dependency via options '-framework MonkeyKing' in build setting 'OTHER_LDFLAGS')
+SnapKit in Pods (implicit dependency via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS')
+SwiftyJSON in Pods (implicit dependency via options '-framework SwiftyJSON' in build setting 'OTHER_LDFLAGS')

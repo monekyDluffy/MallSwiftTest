@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "88e8014bbbe3ed121de3e7e1a23cffc2a161ac088a53cbc54770cf564e97b3c9"
+build_start_time: [1654137829, 275807857]
+build_end_time: [1654137830, 474883079]
+inputs:
+  "/Users/as/Desktop/DEMO/MallSwiftTest/MallSwiftTest/AppDelegate.swift": [1653785940, 811324596]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/MallSwiftTest/Model/Deal.swift": [1654127436, 391840696]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/MallSwiftTest/Model/FakeData.swift": !private [1654137828, 651595354]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/MallSwiftTest/Model/Product.swift": [1654127400, 270856857]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/MallSwiftTest/SceneDelegate.swift": [1653793404, 264094352]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/MallSwiftTest/ViewController.swift": [1654126983, 283185243]

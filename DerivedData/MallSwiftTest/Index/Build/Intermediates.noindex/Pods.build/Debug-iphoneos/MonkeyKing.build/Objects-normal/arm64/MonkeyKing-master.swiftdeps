@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "fa176ae26597a429326ae46122df1d5c23ade041360a794088ff9d9b72bd6af1"
+build_start_time: [1654126351, 285231113]
+build_end_time: [1654126354, 797919988]
+inputs:
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/AnyActivity.swift": [1654126293, 667955875]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/Extensions.swift": [1654126293, 667721748]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/Helpers.swift": [1654126293, 667469024]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/MonkeyKing+Error.swift": [1654126293, 666730642]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/MonkeyKing+Message.swift": [1654126293, 670313835]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/MonkeyKing+OAuth.swift": [1654126293, 665490627]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/MonkeyKing+OpenURL.swift": [1654126293, 669227600]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/MonkeyKing+Pay.swift": [1654126293, 670683860]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/MonkeyKing+Program.swift": [1654126293, 666473627]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/MonkeyKing+QQUniversalLink.swift": [1654126293, 665890932]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/MonkeyKing+SupportedPlatformCapable.swift": [1654126293, 666969299]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/MonkeyKing+WeChatUniversalLink.swift": [1654126293, 668857812]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/MonkeyKing+WebView.swift": [1654126293, 664681434]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/MonkeyKing+WeiboLinks.swift": [1654126293, 666196346]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/MonkeyKing+handleOpenURL.swift": [1654126293, 668187618]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/MonkeyKing.swift": [1654126293, 669639110]
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/MonkeyKing/Sources/MonkeyKing/Networking.swift": [1654126293, 667221069]

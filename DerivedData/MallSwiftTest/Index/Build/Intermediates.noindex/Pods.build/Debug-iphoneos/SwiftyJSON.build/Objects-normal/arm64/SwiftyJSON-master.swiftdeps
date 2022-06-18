@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "d2b39ea27f6e5a1e2278810aa77b331060196692493d026e9112d25485ebe3bb"
+build_start_time: [1654126351, 284069061]
+build_end_time: [1654126354, 527408123]
+inputs:
+  "/Users/as/Desktop/DEMO/MallSwiftTest/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift": [1654126298, 23330211]

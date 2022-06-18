@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>096296B3-577A-484A-B385-ADF005C9A77E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>096296B3-577A-484A-B385-ADF005C9A77E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MallSwiftTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MallSwiftTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MallSwiftTest</string>
+			<key>timeStartedRecording</key>
+			<real>675817850.28606904</real>
+			<key>timeStoppedRecording</key>
+			<real>675817884.55502403</real>
+			<key>title</key>
+			<string>Run MallSwiftTest</string>
+			<key>uniqueIdentifier</key>
+			<string>096296B3-577A-484A-B385-ADF005C9A77E</string>
+		</dict>
+		<key>43BC9143-DBF2-4DA9-8C83-80BEAA67F1A9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>43BC9143-DBF2-4DA9-8C83-80BEAA67F1A9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MallSwiftTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MallSwiftTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MallSwiftTest</string>
+			<key>timeStartedRecording</key>
+			<real>675819823.17153502</real>
+			<key>timeStoppedRecording</key>
+			<real>675820603.947963</real>
+			<key>title</key>
+			<string>Run MallSwiftTest</string>
+			<key>uniqueIdentifier</key>
+			<string>43BC9143-DBF2-4DA9-8C83-80BEAA67F1A9</string>
+		</dict>
+		<key>58869C55-B170-4D2B-AA73-FD50A3ABAD9E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>58869C55-B170-4D2B-AA73-FD50A3ABAD9E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MallSwiftTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MallSwiftTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MallSwiftTest</string>
+			<key>timeStartedRecording</key>
+			<real>675821014.66224205</real>
+			<key>timeStoppedRecording</key>
+			<real>675821021.02911401</real>
+			<key>title</key>
+			<string>Run MallSwiftTest</string>
+			<key>uniqueIdentifier</key>
+			<string>58869C55-B170-4D2B-AA73-FD50A3ABAD9E</string>
+		</dict>
+		<key>A49B6EC0-EA28-4211-95C7-D8782AD8A8B2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A49B6EC0-EA28-4211-95C7-D8782AD8A8B2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MallSwiftTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MallSwiftTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MallSwiftTest</string>
+			<key>timeStartedRecording</key>
+			<real>675820671.10370505</real>
+			<key>timeStoppedRecording</key>
+			<real>675820971.584759</real>
+			<key>title</key>
+			<string>Run MallSwiftTest</string>
+			<key>uniqueIdentifier</key>
+			<string>A49B6EC0-EA28-4211-95C7-D8782AD8A8B2</string>
+		</dict>
+		<key>FC31D78A-2926-4A58-9EF3-62D5D51ABD27</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FC31D78A-2926-4A58-9EF3-62D5D51ABD27.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MallSwiftTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MallSwiftTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MallSwiftTest</string>
+			<key>timeStartedRecording</key>
+			<real>675820648.76013005</real>
+			<key>timeStoppedRecording</key>
+			<real>675820650.24463797</real>
+			<key>title</key>
+			<string>Run MallSwiftTest</string>
+			<key>uniqueIdentifier</key>
+			<string>FC31D78A-2926-4A58-9EF3-62D5D51ABD27</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
