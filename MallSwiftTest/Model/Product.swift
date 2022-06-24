@@ -15,9 +15,9 @@ struct Product{
     var teacher :String
     var total :Int
     var update :Int
-    var student :Int
+    var studentCount :Int
     var detail : String
-    var course :String
+    var courseList :String
 }
 
 

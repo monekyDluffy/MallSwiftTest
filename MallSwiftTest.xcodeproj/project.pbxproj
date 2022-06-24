@@ -10,6 +10,14 @@
 		4222EA142848320400E21C0D /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4222EA132848320400E21C0D /* Product.swift */; };
 		4222EA162848326F00E21C0D /* Deal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4222EA152848326F00E21C0D /* Deal.swift */; };
 		4222EA19284832EA00E21C0D /* FakeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4222EA18284832EA00E21C0D /* FakeData.swift */; };
+		426D3911285DD4E300F41871 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426D3910285DD4E300F41871 /* BaseViewController.swift */; };
+		426D3914285DD52800F41871 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426D3913285DD52800F41871 /* LoginViewController.swift */; };
+		426D3916285DD53400F41871 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426D3915285DD53400F41871 /* HomeViewController.swift */; };
+		426D3918285DD54400F41871 /* MineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426D3917285DD54400F41871 /* MineViewController.swift */; };
+		426D391A285DD55100F41871 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426D3919285DD55100F41871 /* DetailViewController.swift */; };
+		426D391C285DD56000F41871 /* DealListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426D391B285DD56000F41871 /* DealListViewController.swift */; };
+		426D391F285DD7A900F41871 /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426D391E285DD7A900F41871 /* UIColorExtension.swift */; };
+		426D39222863509500F41871 /* BannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426D39212863509500F41871 /* BannerView.swift */; };
 		42C0288D2842FCD400A1DE5E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42C0288C2842FCD400A1DE5E /* AppDelegate.swift */; };
 		42C0288F2842FCD400A1DE5E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42C0288E2842FCD400A1DE5E /* SceneDelegate.swift */; };
 		42C028912842FCD400A1DE5E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42C028902842FCD400A1DE5E /* ViewController.swift */; };
@@ -24,6 +32,14 @@
 		4222EA132848320400E21C0D /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 		4222EA152848326F00E21C0D /* Deal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deal.swift; sourceTree = "<group>"; };
 		4222EA18284832EA00E21C0D /* FakeData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FakeData.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		426D3910285DD4E300F41871 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		426D3913285DD52800F41871 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		426D3915285DD53400F41871 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		426D3917285DD54400F41871 /* MineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MineViewController.swift; sourceTree = "<group>"; };
+		426D3919285DD55100F41871 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		426D391B285DD56000F41871 /* DealListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DealListViewController.swift; sourceTree = "<group>"; };
+		426D391E285DD7A900F41871 /* UIColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorExtension.swift; sourceTree = "<group>"; };
+		426D39212863509500F41871 /* BannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BannerView.swift; sourceTree = "<group>"; };
 		42C028892842FCD400A1DE5E /* MallSwiftTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MallSwiftTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42C0288C2842FCD400A1DE5E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42C0288E2842FCD400A1DE5E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +82,42 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		426D390D285DD49800F41871 /* baseViewcontroller */ = {
+			isa = PBXGroup;
+			children = (
+				426D3910285DD4E300F41871 /* BaseViewController.swift */,
+			);
+			name = baseViewcontroller;
+			sourceTree = "<group>";
+		};
+		426D3912285DD4F300F41871 /* indexVC */ = {
+			isa = PBXGroup;
+			children = (
+				426D3913285DD52800F41871 /* LoginViewController.swift */,
+				426D3915285DD53400F41871 /* HomeViewController.swift */,
+				426D3917285DD54400F41871 /* MineViewController.swift */,
+				426D3919285DD55100F41871 /* DetailViewController.swift */,
+				426D391B285DD56000F41871 /* DealListViewController.swift */,
+			);
+			name = indexVC;
+			sourceTree = "<group>";
+		};
+		426D391D285DD75000F41871 /* extension */ = {
+			isa = PBXGroup;
+			children = (
+				426D391E285DD7A900F41871 /* UIColorExtension.swift */,
+			);
+			path = extension;
+			sourceTree = "<group>";
+		};
+		426D39202863506500F41871 /* Component */ = {
+			isa = PBXGroup;
+			children = (
+				426D39212863509500F41871 /* BannerView.swift */,
+			);
+			name = Component;
+			sourceTree = "<group>";
+		};
 		42C028802842FCD400A1DE5E = {
 			isa = PBXGroup;
 			children = (
@@ -87,6 +139,10 @@
 		42C0288B2842FCD400A1DE5E /* MallSwiftTest */ = {
 			isa = PBXGroup;
 			children = (
+				426D39202863506500F41871 /* Component */,
+				426D391D285DD75000F41871 /* extension */,
+				426D3912285DD4F300F41871 /* indexVC */,
+				426D390D285DD49800F41871 /* baseViewcontroller */,
 				4222EA17284832D100E21C0D /* Model */,
 				42C0288C2842FCD400A1DE5E /* AppDelegate.swift */,
 				42C0288E2842FCD400A1DE5E /* SceneDelegate.swift */,
@@ -223,12 +279,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				426D39222863509500F41871 /* BannerView.swift in Sources */,
+				426D391A285DD55100F41871 /* DetailViewController.swift in Sources */,
 				4222EA19284832EA00E21C0D /* FakeData.swift in Sources */,
 				42C028912842FCD400A1DE5E /* ViewController.swift in Sources */,
 				4222EA142848320400E21C0D /* Product.swift in Sources */,
 				4222EA162848326F00E21C0D /* Deal.swift in Sources */,
+				426D3914285DD52800F41871 /* LoginViewController.swift in Sources */,
+				426D391F285DD7A900F41871 /* UIColorExtension.swift in Sources */,
+				426D3916285DD53400F41871 /* HomeViewController.swift in Sources */,
 				42C0288D2842FCD400A1DE5E /* AppDelegate.swift in Sources */,
+				426D391C285DD56000F41871 /* DealListViewController.swift in Sources */,
+				426D3911285DD4E300F41871 /* BaseViewController.swift in Sources */,
 				42C0288F2842FCD400A1DE5E /* SceneDelegate.swift in Sources */,
+				426D3918285DD54400F41871 /* MineViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -382,6 +446,7 @@
 				DEVELOPMENT_TEAM = G9NM6LNBF4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MallSwiftTest/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "少女前线云图";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -414,6 +479,7 @@
 				DEVELOPMENT_TEAM = G9NM6LNBF4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MallSwiftTest/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "少女前线云图";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
